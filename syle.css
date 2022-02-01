@@ -43,8 +43,9 @@
 }
 .main-container > h3 {
 	text-align: center;
-	padding: 50px;
-	font-size: 3rem;
+	padding-top: 100px;
+	padding-bottom: 70px;
+	font-size: 2.7rem;
 }
 
 /* styling template images container */
